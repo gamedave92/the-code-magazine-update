@@ -2,11 +2,12 @@ body {
   text-align: center;
   font-family: "Work Sans", sans-serif;
   line-height: 25px;
-  background: rgb(2, 93, 171);
+  background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,
-    rgba(2, 93, 171, 1) 0%,
-    rgba(8, 211, 227, 1) 100%
+    rgba(2, 0, 36, 1) 0%,
+    rgba(184, 184, 251, 1) 35%,
+    rgba(151, 228, 244, 1) 69%
   );
   text-shadow: rgb(217, 255, 1) -1px -2px 0.5em;
   font-weight: bold;
